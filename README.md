@@ -4,9 +4,6 @@
 
 **AI Developer | Computer Vision & Recommendation Systems**
 
-특정 모델보다, 마주한 문제에 적합한  
-**데이터 구성과 실험 구조**가 중요하다고 생각합니다.
-
 </td>
 <td width="45%" valign="top">
 
