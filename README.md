@@ -55,7 +55,7 @@
 
 ---
 
-### 📌 PAZULE (Vision 기반 프로젝트)
+### 📌 PAZULE (Vision 기반)
 **Tech**: BLIP, CLIP  
 - 이미지 인식 기반 문제 해결 프로젝트
 - Vision task에서의 데이터 처리 경험
