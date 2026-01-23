@@ -63,6 +63,15 @@
 
 ---
 
+### 📌 Book Rating Prediction (RecSys)
+**Tech**: CatBoost, Matrix Factorization, AutoEncoder  
+- Rating 예측 문제 정의 및 평가
+- 모델별 성능 비교 실험
+
+🔗 [Repository](https://github.com/seung23/pro-recsys-bookratingprediction-recsys-04)
+
+---
+
 ### 📌 Movie Recommendation System (RecSys)
 **Tech**: EASE, BERT4Rec, LightGCN, MultiVAE
 - 사용자–아이템 상호작용 기반 추천
@@ -71,12 +80,5 @@
 
 🔗 [Repository](https://github.com/seung23/pro-recsys-movierecommendation-recsys-04)
 
----
 
-### 📌 Book Rating Prediction (RecSys)
-**Tech**: CatBoost, Matrix Factorization, AutoEncoder  
-- Rating 예측 문제 정의 및 평가
-- 모델별 성능 비교 실험
-
-🔗 [Repository](https://github.com/seung23/pro-recsys-bookratingprediction-recsys-04)
 
