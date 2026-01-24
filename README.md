@@ -42,7 +42,7 @@
 
 ---
 
-## 🧠 주요 프로젝트
+## 주요 프로젝트
 
 ### 📌 Vehicle License Plate De-identification (Computer Vision)
 **Tech**: YOLO, ResNet, OpenCV, AdaIN, PaddleOCR  
