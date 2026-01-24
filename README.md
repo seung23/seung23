@@ -14,6 +14,7 @@
 ### 💻 Language  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
 ### 🧠 ML / DL  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
@@ -42,9 +43,9 @@
 
 ---
 
-## 주요 프로젝트
+## 📌 주요 프로젝트
 
-### 📌 Vehicle License Plate De-identification (Computer Vision)
+### Vehicle License Plate De-identification (Computer Vision)
 **Tech**: YOLO, ResNet, OpenCV, AdaIN, PaddleOCR  
 - 차량 번호판 탐지 및 비식별화
 - 합성 데이터 생성을 위한 이미지 파이프라인 구축
@@ -54,7 +55,7 @@
 
 ---
 
-### 📌 PAZULE (Vision 기반)
+### PAZULE (Vision 기반)
 **Tech**: BLIP, CLIP  
 - 이미지 인식 기반 문제 해결 프로젝트
 - Vision task에서의 데이터 처리 경험
@@ -63,7 +64,7 @@
 
 ---
 
-### 📌 Book Rating Prediction (RecSys)
+### Book Rating Prediction (RecSys)
 **Tech**: CatBoost, Matrix Factorization, AutoEncoder  
 - Rating 예측 문제 정의 및 평가
 - 모델별 성능 비교 실험
@@ -72,7 +73,7 @@
 
 ---
 
-### 📌 Movie Recommendation System (RecSys)
+### Movie Recommendation System (RecSys)
 **Tech**: EASE, BERT4Rec, LightGCN, MultiVAE
 - 사용자–아이템 상호작용 기반 추천
 - Side Information을 활용한 Hybrid 접근
