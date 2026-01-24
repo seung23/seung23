@@ -48,7 +48,7 @@
 ### Vehicle License Plate De-identification (Computer Vision)
 **Tech**: YOLO, ResNet, OpenCV, AdaIN, PaddleOCR  
 - 차량 번호판 탐지 및 비식별화
-- 합성 데이터 생성을 위한 이미지 파이프라인 구축
+- 합성 데이터 생성을 위한 End-to-End 파이프라인 구축
 - 실제 데이터 활용을 고려한 전처리 및 안정성 중심 설계
 
 🔗 [Repository](https://github.com/seung23/license-plate-deid)
@@ -59,6 +59,7 @@
 **Tech**: BLIP, CLIP  
 - 이미지 인식 기반 문제 해결 프로젝트
 - Vision task에서의 데이터 처리 경험
+- UX 설계 & 데이터 입력과 검증에 기여
 
 🔗 [Repository](https://github.com/seung23/PAZULE)
 
@@ -67,7 +68,8 @@
 ### Book Rating Prediction (RecSys)
 **Tech**: CatBoost, Matrix Factorization, AutoEncoder  
 - Rating 예측 문제 정의 및 평가
-- 모델별 성능 비교 실험
+- 데이터 분포를 고려한 여러 앙상블 로직 적용
+- **대회 최종 1위**
 
 🔗 [Repository](https://github.com/seung23/pro-recsys-bookratingprediction-recsys-04)
 
@@ -77,7 +79,7 @@
 **Tech**: EASE, BERT4Rec, LightGCN, MultiVAE
 - 사용자–아이템 상호작용 기반 추천
 - Side Information을 활용한 Hybrid 접근
-- Recall@10 중심의 실험 설계
+- 모델별 성능 비교 실험
 
 🔗 [Repository](https://github.com/seung23/pro-recsys-movierecommendation-recsys-04)
 
