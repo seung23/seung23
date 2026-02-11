@@ -1,6 +1,6 @@
 
 
-# 👋 안녕하세요, AI Engineer 백승입니다
+# 👋 안녕하세요, ML Engineer 백승입니다
 
 
 
