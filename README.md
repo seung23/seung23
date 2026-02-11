@@ -45,7 +45,7 @@
 
 ## 📌 주요 프로젝트
 
-### Vehicle License Plate De-identification (Computer Vision)
+### Vehicle License Plate De-identification 
 **Tech**: YOLO, ResNet, OpenCV, AdaIN  
 
 <div align="center">
@@ -71,7 +71,7 @@
 
 ---
 
-### AYNIG: All You Need Is Grain (Investment Insight Agent)
+### AYNIG: All You Need Is Grain 
 **Tech**: LangChain, LangGraph, Qdrant, FastAPI, vLLM, Ollama  
 
 <p align="center">
@@ -90,7 +90,7 @@
 
 ---
 
-### PAZULE (Vision 기반)
+### PAZULE
 **Tech**: BLIP, CLIP, Flask
 
 <p align="center">
@@ -111,7 +111,7 @@
 
 ---
 
-### Book Rating Prediction (RecSys)
+### Book Rating Prediction 
 **Tech**: CatBoost, Matrix Factorization, AutoEncoder  
 - Rating 예측 문제 정의 및 평가
 - 데이터 분포를 고려한 여러 앙상블 로직 적용
@@ -121,7 +121,7 @@
 
 ---
 
-### Movie Recommendation System (RecSys)
+### Movie Recommendation System 
 **Tech**: EASE, BERT4Rec, LightGCN, MultiVAE
 - 사용자–아이템 상호작용 기반 추천
 - Side Information을 활용한 Hybrid 접근
