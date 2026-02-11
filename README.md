@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 백승입니다
 
-**AI Developer | Computer Vision & Recommendation Systems**
+**AI Developer | Computer Vision & Recommender Systems**
 
 </td>
 <td width="45%" valign="top">
