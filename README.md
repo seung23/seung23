@@ -45,7 +45,7 @@
 
 ## 📌 주요 프로젝트
 
-### Vehicle License Plate De-identification 
+### Deep Learning-based Virtual License Plate Synthesis 
 **Tech**: YOLO, ResNet, OpenCV, AdaIN  
 
 <div align="center">
