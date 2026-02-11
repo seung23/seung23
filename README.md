@@ -45,7 +45,7 @@
 
 ## 📌 주요 프로젝트
 
-### Deep Learning-based Virtual License Plate Synthesis 
+### Deep Learning-based Virtual License Plate Synthesis (가상 번호판 합성)
 **Tech**: YOLO, ResNet, OpenCV, AdaIN  
 
 <div align="center">
@@ -71,7 +71,7 @@
 
 ---
 
-### AYNIG: All You Need Is Grain 
+### AYNIG: All You Need Is Grain (곡물 투자 보조 Agent)
 **Tech**: LangChain, LangGraph, Qdrant, FastAPI, vLLM, Ollama  
 
 <p align="center">
@@ -90,7 +90,7 @@
 
 ---
 
-### PAZULE
+### PAZULE (보물찾기 플랫폼)
 **Tech**: BLIP, CLIP, Flask
 
 <p align="center">
@@ -102,7 +102,7 @@
 
 
 
-- 이미지 인식 기반 문제(보물찾기) 해결 프로젝트
+- 이미지 인식 기반 문제 해결 프로젝트
 - UX 및 front UI 설계 
 - Vision task에서의 데이터 입력과 검증에 기여
 - 파주 시민 AI 혁신 아이디어 경진대회 최우수상
