@@ -94,7 +94,7 @@
 **Tech**: BLIP, CLIP, Flask
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4feed91b-0ba2-4857-9cad-9cf24d24efc8" width="600" />
+  <img src="https://github.com/user-attachments/assets/4feed91b-0ba2-4857-9cad-9cf24d24efc8" width="200" />
   <br>
   <em>시연 화면</em>
 </p>
