@@ -94,10 +94,12 @@
 **Tech**: BLIP, CLIP, Flask
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4feed91b-0ba2-4857-9cad-9cf24d24efc8" width="200" />
+  <img src="https://github.com/user-attachments/assets/1adfdeba-e942-4f9a-bed3-fabbbc467607" width="600" />
   <br>
   <em>시연 화면</em>
 </p>
+
+
 
 
 - 이미지 인식 기반 문제(보물찾기) 해결 프로젝트
