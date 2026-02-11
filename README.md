@@ -93,27 +93,16 @@
 ### PAZULE (Vision 기반)
 **Tech**: BLIP, CLIP, Flask
 
-<div align="center">
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/d4d904c7-33e5-4899-88af-260d8047a18f" width="100%" />
-      </td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/c12847db-452b-421d-9ca8-a02251fb7206" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4feed91b-0ba2-4857-9cad-9cf24d24efc8" width="600" />
+  <br>
+  <em>시연 화면</em>
+</p>
 
 
 - 이미지 인식 기반 문제(보물찾기) 해결 프로젝트
-- Vision task에서의 데이터 처리 경험
-- UX 설계 & 데이터 입력과 검증에 기여
+- UX 및 front UI 설계 
+- Vision task에서의 데이터 입력과 검증에 기여
 - 파주 시민 AI 혁신 아이디어 경진대회 최우수상
 
 🔗 [Repository](https://github.com/seung23/PAZULE)
