@@ -61,6 +61,7 @@
 </div>
 </div>
 
+
 - 1인 프로젝트
 - 차량 번호판 탐지 및 비식별화
 - 합성 데이터 생성을 위한 End-to-End 파이프라인 구축
@@ -76,8 +77,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/762eb88d-ddcd-4616-aceb-4d8f857d6342" width="600" />
   <br>
-  <em>곡물 선물 투자 인사이트 제공 AI 에이전트 시연 화면</em>
+  <em>시연 화면</em>
 </p>
+
 
 - 프로젝트 총괄(PM)
 - 복잡한 곡물 선물 시장 데이터를 분석하여 투자 인사이트를 제공하는 AI 서비스
@@ -90,7 +92,26 @@
 
 ### PAZULE (Vision 기반)
 **Tech**: BLIP, CLIP, Flask
-- 이미지 인식 기반 문제 해결 프로젝트
+
+<div align="center">
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/d4d904c7-33e5-4899-88af-260d8047a18f" width="100%" />
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/c12847db-452b-421d-9ca8-a02251fb7206" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+</div>
+
+
+- 이미지 인식 기반 문제(보물찾기) 해결 프로젝트
 - Vision task에서의 데이터 처리 경험
 - UX 설계 & 데이터 입력과 검증에 기여
 - 파주 시민 AI 혁신 아이디어 경진대회 최우수상
