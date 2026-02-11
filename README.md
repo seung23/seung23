@@ -55,6 +55,24 @@
 
 ---
 
+### AYNIG: All You Need Is Grain (Investment Insight Agent)
+**Tech**: LangChain, LangGraph, Qdrant, FastAPI, vLLM, Ollama  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/762eb88d-ddcd-4616-aceb-4d8f857d6342" width="600" />
+  <br>
+  <em>곡물 선물 투자 인사이트 제공 AI 에이전트 시연 화면</em>
+</p>
+
+- **곡물 시장 분석 에이전트**: 복잡한 곡물 선물 시장 데이터를 분석하여 투자 인사이트를 제공하는 AI 서비스
+- **RAG 백엔드 구축**: Qdrant(Vector DB)를 활용해 방대한 시장 리포트와 뉴스를 효율적으로 검색하는 시스템 구현
+- **복합 에이전트 로직**: LangChain과 LangGraph를 사용하여 사용자의 질문 의도를 파악하고 최적의 답변 경로를 찾는 추론 엔진 설계
+- **실시간 데이터 처리**: 뉴스 및 가격 데이터를 검색하여 신뢰할 수 있는 답변을 생성하는 파이프라인 최적화
+
+🔗 [Repository](https://github.com/seung23/AYNIG)
+
+---
+
 ### PAZULE (Vision 기반)
 **Tech**: BLIP, CLIP  
 - 이미지 인식 기반 문제 해결 프로젝트
