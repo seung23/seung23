@@ -102,7 +102,7 @@
 **Tech**: CatBoost, Matrix Factorization, AutoEncoder  
 - Rating 예측 문제 정의 및 평가
 - 데이터 분포를 고려한 여러 앙상블 로직 적용
-- **대회 최종 1위**
+- 대회 최종 1위 :trophy:
 
 🔗 [Repository](https://github.com/seung23/pro-recsys-bookratingprediction-recsys-04)
 
