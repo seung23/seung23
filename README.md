@@ -46,7 +46,7 @@
 ## 📌 주요 프로젝트
 
 ### Vehicle License Plate De-identification (Computer Vision)
-**Tech**: YOLO, ResNet, OpenCV, AdaIN, PaddleOCR  
+**Tech**: YOLO, ResNet, OpenCV, AdaIN  
 
 <div align="center">
 
@@ -64,6 +64,7 @@
 - 차량 번호판 탐지 및 비식별화
 - 합성 데이터 생성을 위한 End-to-End 파이프라인 구축
 - 실제 데이터 활용을 고려한 전처리 및 안정성 중심 설계
+- 1인 프로젝트
 
 🔗 [Repository](https://github.com/seung23/license-plate-deid)
 
