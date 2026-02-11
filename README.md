@@ -61,10 +61,10 @@
 </div>
 </div>
 
+- **1인 프로젝트**
 - 차량 번호판 탐지 및 비식별화
 - 합성 데이터 생성을 위한 End-to-End 파이프라인 구축
 - 실제 데이터 활용을 고려한 전처리 및 안정성 중심 설계
-- 1인 프로젝트
 
 🔗 [Repository](https://github.com/seung23/license-plate-deid)
 
@@ -79,11 +79,10 @@
   <em>곡물 선물 투자 인사이트 제공 AI 에이전트 시연 화면</em>
 </p>
 
-- **곡물 시장 분석 에이전트**: 복잡한 곡물 선물 시장 데이터를 분석하여 투자 인사이트를 제공하는 AI 서비스
-- **RAG 백엔드 구축**: Qdrant(Vector DB)를 활용해 방대한 시장 리포트와 뉴스를 효율적으로 검색하는 시스템 구현
-- **복합 에이전트 로직**: LangChain과 LangGraph를 사용하여 사용자의 질문 의도를 파악하고 최적의 답변 경로를 찾는 추론 엔진 설계
-- **실시간 데이터 처리**: 뉴스 및 가격 데이터를 검색하여 신뢰할 수 있는 답변을 생성하는 파이프라인 최적화
-
+- 복잡한 곡물 선물 시장 데이터를 분석하여 투자 인사이트를 제공하는 AI 서비스
+- **프로젝트 총괄(PM)**
+- Qdrant(Vector DB)를 활용해 방대한 시장 리포트와 뉴스를 효율적으로 검색하는 RAG 백엔드 및 API 설계
+- Analysis & Response 프롬프트 엔지니어링
 🔗 [Repository](https://github.com/seung23/AYNIG)
 
 ---
@@ -102,7 +101,7 @@
 **Tech**: CatBoost, Matrix Factorization, AutoEncoder  
 - Rating 예측 문제 정의 및 평가
 - 데이터 분포를 고려한 여러 앙상블 로직 적용
-- 대회 최종 1위 :trophy:
+- **대회 최종 1위 :trophy:**
 
 🔗 [Repository](https://github.com/seung23/pro-recsys-bookratingprediction-recsys-04)
 
