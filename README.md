@@ -83,7 +83,7 @@
 
 - 프로젝트 총괄(PM)
 - 복잡한 곡물 선물 시장 데이터를 분석하여 투자 인사이트를 제공하는 AI 서비스
-- Qdrant(Vector DB)를 활용해 방대한 시장 리포트와 뉴스를 효율적으로 검색하는 RAG 백엔드 및 API 설계
+- Qdrant(Vector DB)를 활용해 방대한 시장 리포트와 뉴스를 효율적으로 검색하는 RAG 시스템 및 API 설계
 - Analysis & Response 프롬프트 엔지니어링
 
 🔗 [Repository](https://github.com/seung23/AYNIG)
