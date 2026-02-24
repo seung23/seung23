@@ -131,7 +131,7 @@
 
 ---
 
-### Larry Williams Volatility Breakout Strategy (trading bot) 
+### Trading Bot (Larry Williams Volatility Breakout Strategy)
 
 - 래리 윌리엄스 변동성 돌파 전략을 반영한 자동 매매봇
 - 한국투자증권 기준
