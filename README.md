@@ -129,5 +129,14 @@
 
 🔗 [Repository](https://github.com/seung23/pro-recsys-movierecommendation-recsys-04)
 
+---
+
+### Larry Williams Volatility Breakout Strategy (trading bot) 
+
+- 래리 윌리엄스 변동성 돌파 전략을 반영한 자동 매매봇
+- 한국투자증권 기
+
+🔗 [Repository](https://github.com/seung23/ai-trading-bot)
+
 
 
