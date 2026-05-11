@@ -118,8 +118,6 @@
 - 94만 건 규모의 법령·판례 데이터를 벡터 검색으로 제공하는 MCP 서버 구축
 - 국가법령정보센터 OPEN API 기반 데이터 수집 및 도메인 특화 청킹 설계
 - BGE-M3 임베딩 + Qdrant(Vector DB)를 활용한 법률 RAG 시스템 구현
-- Claude Desktop / Claude.ai Custom Connector 연동 가능한 MCP Tool Server 개발
-- Cloudflare Tunnel 기반 셀프 호스팅 및 Docker Compose 운영 환경 구성
 - 시행일 기반 메타데이터 필터링을 통해 폐지·개정 조문 반환 문제 해결
 
 🔗 [Repository](https://github.com/seung23/lawtutor-mcp)
