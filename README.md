@@ -119,6 +119,7 @@
 - 국가법령정보센터 OPEN API 기반 데이터 수집 및 도메인 특화 청킹 설계
 - BGE-M3 임베딩 + Qdrant(Vector DB)를 활용한 법률 RAG 시스템 구현
 - 시행일 기반 메타데이터 필터링을 통해 폐지·개정 조문 반환 문제 해결
+- 실제 Claude Custom Connector 연동 가능
 
 🔗 [Repository](https://github.com/seung23/lawtutor-mcp)
 
