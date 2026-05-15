@@ -114,6 +114,14 @@
 ### LawTutor MCP (법률 RAG 검색 시스템)
 **Tech**: MCP, FastAPI, Qdrant, BGE-M3, Docker, Cloudflare Tunnel  
 
+<p align="center">
+  <img width="400" height="225" alt="Video Project 6" src="https://github.com/user-attachments/assets/aded4bbe-00af-4e39-b752-c67319844483" />
+  <br>
+  <em>시연 화면</em>
+</p>
+
+
+
 
 - 94만 건 규모의 법령·판례 데이터를 벡터 검색으로 제공하는 MCP 서버 구축
 - 국가법령정보센터 OPEN API 기반 데이터 수집 및 도메인 특화 청킹 설계
