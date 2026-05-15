@@ -90,6 +90,28 @@
 
 ---
 
+### LawTutor MCP (법률 RAG 검색 시스템)
+**Tech**: MCP, FastAPI, Qdrant, BGE-M3, Docker, Cloudflare Tunnel  
+
+<p align="center">
+  <img width="600" height="225" alt="Video Project 6" src="https://github.com/user-attachments/assets/aded4bbe-00af-4e39-b752-c67319844483" />
+  <br>
+  <em>시연 화면</em>
+</p>
+
+
+
+
+- 94만 건 규모의 법령·판례 데이터를 벡터 검색으로 제공하는 MCP 서버 구축
+- 국가법령정보센터 OPEN API 기반 데이터 수집 및 도메인 특화 청킹 설계
+- BGE-M3 임베딩 + Qdrant(Vector DB)를 활용한 법률 RAG 시스템 구현
+- 시행일 기반 메타데이터 필터링을 통해 폐지·개정 조문 반환 문제 해결
+- 실제 Claude Custom Connector 연동 가능
+
+🔗 [Repository](https://github.com/seung23/lawtutor-mcp)
+
+---
+
 ### PAZULE (보물찾기 플랫폼)
 **Tech**: BLIP, CLIP, Flask
 
@@ -108,28 +130,6 @@
 - 파주 시민 AI 혁신 아이디어 경진대회 최우수상
 
 🔗 [Repository](https://github.com/seung23/PAZULE)
-
----
-
-### LawTutor MCP (법률 RAG 검색 시스템)
-**Tech**: MCP, FastAPI, Qdrant, BGE-M3, Docker, Cloudflare Tunnel  
-
-<p align="center">
-  <img width="400" height="225" alt="Video Project 6" src="https://github.com/user-attachments/assets/aded4bbe-00af-4e39-b752-c67319844483" />
-  <br>
-  <em>시연 화면</em>
-</p>
-
-
-
-
-- 94만 건 규모의 법령·판례 데이터를 벡터 검색으로 제공하는 MCP 서버 구축
-- 국가법령정보센터 OPEN API 기반 데이터 수집 및 도메인 특화 청킹 설계
-- BGE-M3 임베딩 + Qdrant(Vector DB)를 활용한 법률 RAG 시스템 구현
-- 시행일 기반 메타데이터 필터링을 통해 폐지·개정 조문 반환 문제 해결
-- 실제 Claude Custom Connector 연동 가능
-
-🔗 [Repository](https://github.com/seung23/lawtutor-mcp)
 
 ---
 
