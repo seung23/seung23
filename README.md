@@ -94,7 +94,7 @@
 **Tech**: MCP, FastAPI, Qdrant, BGE-M3, Docker, Cloudflare Tunnel  
 
 <p align="center">
-  <img width="600" height="225" alt="Video Project 6" src="https://github.com/user-attachments/assets/aded4bbe-00af-4e39-b752-c67319844483" />
+  <img width="500" height="300" alt="Video Project 6" src="https://github.com/user-attachments/assets/aded4bbe-00af-4e39-b752-c67319844483" />
   <br>
   <em>시연 화면</em>
 </p>
