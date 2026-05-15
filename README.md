@@ -64,10 +64,11 @@
 **Tech**: MCP, FastAPI, Qdrant, BGE-M3, Docker, Cloudflare Tunnel  
 
 <p align="center">
-  <img width="500" height="300" alt="ezgif-8abbf4d6389e49d1" src="https://github.com/user-attachments/assets/11c9e34e-ec7f-47c9-8590-22171b8b11f4" />
+  <img width="500" height="300" alt="ezgif-877214e2a06321c5" src="https://github.com/user-attachments/assets/2567402e-320a-41b2-8b09-76200f314f23" />
   <br>
   <em>시연 화면</em>
 </p>
+
 
 
 
