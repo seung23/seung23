@@ -39,7 +39,8 @@
 </tr>
 </table>
 
----
+
+## 📌 주요 프로젝트
 
 ### AYNIG: All You Need Is Grain (곡물 투자 보조 Agent)
 **Tech**: LangChain, LangGraph, Qdrant, FastAPI, vLLM, Ollama  
@@ -84,8 +85,6 @@
 🔗 [Repository](https://github.com/seung23/lawtutor-mcp)
 
 ---
-
-## 📌 주요 프로젝트
 
 ### Deep Learning-based Virtual License Plate Synthesis (가상 번호판 합성)
 **Tech**: YOLO, ResNet, OpenCV, AdaIN  
