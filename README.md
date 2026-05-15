@@ -1,5 +1,3 @@
-
-
 # 👋 안녕하세요, AI와 소통하는 엔지니어 백승입니다
 
 
@@ -43,6 +41,49 @@
 
 ---
 
+### AYNIG: All You Need Is Grain (곡물 투자 보조 Agent)
+**Tech**: LangChain, LangGraph, Qdrant, FastAPI, vLLM, Ollama  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/762eb88d-ddcd-4616-aceb-4d8f857d6342" width="600" />
+  <br>
+  <em>시연 화면</em>
+</p>
+
+
+- 프로젝트 총괄(PM)
+- 복잡한 곡물 선물 시장 데이터를 분석하여 투자 인사이트를 제공하는 AI 서비스
+- Qdrant(Vector DB)를 활용해 방대한 시장 리포트와 뉴스를 효율적으로 검색하는 RAG 시스템 및 API 설계
+- Analysis & Response 프롬프트 엔지니어링
+
+🔗 [Repository](https://github.com/seung23/AYNIG)
+
+---
+
+### LawTutor MCP (법률 RAG 검색 시스템)
+**Tech**: MCP, FastAPI, Qdrant, BGE-M3, Docker, Cloudflare Tunnel  
+
+<p align="center">
+  <img width="500" height="300" alt="ezgif-8abbf4d6389e49d1" src="https://github.com/user-attachments/assets/11c9e34e-ec7f-47c9-8590-22171b8b11f4" />
+  <br>
+  <em>시연 화면</em>
+</p>
+
+
+
+
+
+
+- 94만 건 규모의 법령·판례 데이터를 벡터 검색으로 제공하는 MCP 서버 구축
+- 국가법령정보센터 OPEN API 기반 데이터 수집 및 도메인 특화 청킹 설계
+- BGE-M3 임베딩 + Qdrant(Vector DB)를 활용한 법률 RAG 시스템 구현
+- 시행일 기반 메타데이터 필터링을 통해 폐지·개정 조문 반환 문제 해결
+- 실제 Claude Custom Connector 연동 가능
+
+🔗 [Repository](https://github.com/seung23/lawtutor-mcp)
+
+---
+
 ## 📌 주요 프로젝트
 
 ### Deep Learning-based Virtual License Plate Synthesis (가상 번호판 합성)
@@ -68,47 +109,6 @@
 - 실제 데이터 활용을 고려한 전처리 및 안정성 중심 설계
 
 🔗 [Repository](https://github.com/seung23/license-plate-deid)
-
----
-
-### AYNIG: All You Need Is Grain (곡물 투자 보조 Agent)
-**Tech**: LangChain, LangGraph, Qdrant, FastAPI, vLLM, Ollama  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/762eb88d-ddcd-4616-aceb-4d8f857d6342" width="600" />
-  <br>
-  <em>시연 화면</em>
-</p>
-
-
-- 프로젝트 총괄(PM)
-- 복잡한 곡물 선물 시장 데이터를 분석하여 투자 인사이트를 제공하는 AI 서비스
-- Qdrant(Vector DB)를 활용해 방대한 시장 리포트와 뉴스를 효율적으로 검색하는 RAG 시스템 및 API 설계
-- Analysis & Response 프롬프트 엔지니어링
-
-🔗 [Repository](https://github.com/seung23/AYNIG)
-
----
-
-### LawTutor MCP (법률 RAG 검색 시스템)
-**Tech**: MCP, FastAPI, Qdrant, BGE-M3, Docker, Cloudflare Tunnel  
-
-<p align="center">
-  <img width="500" height="300" alt="Video Project 6" src="https://github.com/user-attachments/assets/aded4bbe-00af-4e39-b752-c67319844483" />
-  <br>
-  <em>시연 화면</em>
-</p>
-
-
-
-
-- 94만 건 규모의 법령·판례 데이터를 벡터 검색으로 제공하는 MCP 서버 구축
-- 국가법령정보센터 OPEN API 기반 데이터 수집 및 도메인 특화 청킹 설계
-- BGE-M3 임베딩 + Qdrant(Vector DB)를 활용한 법률 RAG 시스템 구현
-- 시행일 기반 메타데이터 필터링을 통해 폐지·개정 조문 반환 문제 해결
-- 실제 Claude Custom Connector 연동 가능
-
-🔗 [Repository](https://github.com/seung23/lawtutor-mcp)
 
 ---
 
@@ -156,7 +156,6 @@
 ### Trading Bot (Larry Williams Volatility Breakout Strategy)
 
 - 래리 윌리엄스 변동성 돌파 전략을 반영한 자동 매매봇
-- 한국투자증권 REST API
 
 🔗 [Repository](https://github.com/seung23/ai-trading-bot)
 
